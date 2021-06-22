@@ -209,7 +209,9 @@ nav{}
 }
 
 
-.icons {}
+.icons {
+    text-align: center;
+}
 .icons i{}
 .info{}
 .info h3{
